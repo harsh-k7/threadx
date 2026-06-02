@@ -57,7 +57,7 @@ void    thread_6_and_7_entry(ULONG thread_input);
 
 int main()
 {
-
+int ad=0;
     /* Enter the ThreadX kernel.  */
     tx_kernel_enter();
 }
